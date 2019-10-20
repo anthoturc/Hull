@@ -2,6 +2,9 @@
 
 This is a little side project that I thought would be a good intro into writing guis in C++ and a cool geometric algorithm.
 
+Here is an image of the GUI:
+![Points](./images/points.png) ![Hull](./images/hull.png)
+
 ## Usage
 
 If you wish to run this on your machine, I would suggest first installing wxWidgets. I used brew on my Mac and used the following command:
