@@ -1,6 +1,6 @@
 # Graham Scan Visualization
 
-This is a little side project that I thought would be a good intro into writing guis in C++ and a cool geometric algorithm.
+This is a little side project that I thought would be a good intro into writing GUIs in C++ and a cool geometric algorithm. The inspiration for this was a talk that I went to where someone said they were asked an interview question based on this. I sort of took it and ran with it from there.
 
 Here is an image of the GUI:
 ![Points](./images/points.png) ![Hull](./images/hull.png)
